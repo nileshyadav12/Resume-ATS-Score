@@ -29,7 +29,7 @@ os.makedirs(SAVE_DIR, exist_ok=True)
 
 # This API should not be used. Please note that I do not have another one, and the token has expired.
 model_name = "gemini-1.5-flash-001"
-api_key = "AIzaSyCXtX-vjh2a6zL9qmDTi5xByVhAh3_w9g8"
+api_key = "sjk5xByVhAh3_w9g8"#this are not orginal key
 
 genai.configure(api_key=api_key)
 llm = genai.GenerativeModel(model_name=model_name)

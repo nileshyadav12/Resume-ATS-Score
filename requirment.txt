@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+pymupdf  # for PDF processing (PyMuPDF)
+google-generativeai  # for Google Gemini AI integration
+python-multipart  # for handling file uploads
